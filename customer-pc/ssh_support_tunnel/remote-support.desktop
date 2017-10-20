@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=bash
+Name[en_US]=remote-support
+Exec=bash /home/<username>/ssh_support_tunnel/reverse-ssh.bash
+Comment[en_US]=Open reverse support tunnel to allow access to local system
+Name=SSH Support Tunnel
+Comment=Open reverse support tunnel to allow access to local system
+GenericName[en_US]=
+Icon=/home/<username>/ssh_support_tunnel/remote-support.svg

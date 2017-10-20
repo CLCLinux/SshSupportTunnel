@@ -1,0 +1,3 @@
+support-agent:x:1000:1000:Support Agent,,,:/home/support-agent:/bin/bash
+support-customer:x:1004:1004:Support Customer,,,:/home/support-customer:/usr/local/bin/supportconnect.bash
+
